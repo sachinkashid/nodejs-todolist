@@ -1,0 +1,22 @@
+{
+  "name": "ToDoApplication",
+  "version": "1.0.0",
+  "private": true,
+  "keywords": [
+    "util",
+    "functional",
+    "server",
+    "client",
+    "browser"
+  ],
+  "author": "eguru",
+  "contributors": [],
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "mongoose": "^4.9.7"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
